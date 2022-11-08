@@ -33,11 +33,11 @@ SONG_DOWNLOAD_DURATION = int(
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001690504312"))
 
 # اسم البوت مينفعش تكتبو مزغرف
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","gohara")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","mogram")
 
 # ايديهات المطورين الملاك
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "5648157552").split())
+    map(int, getenv("OWNER_ID", "5648157552 5463353278").split())
 ) 
 
 # سيبو زي مهوه ملهوش لزمه
