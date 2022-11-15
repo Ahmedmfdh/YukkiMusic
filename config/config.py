@@ -62,7 +62,7 @@ CHANNEL = getenv(
     "CHANNEL", "SourseZezoMusic"
 )  # قناه الاشتراك الاجباري مثل هيك 
 CHANNEL_SUDO = getenv(
-    "CHANNEL_SUDO", ""
+    "CHANNEL_SUDO", "https://t.me/SourseZezoMusic"
 )  # قناة السورس هيك https://t.me/SourseZezoMusic
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", "https://t.me/SourseZezoMusic"
