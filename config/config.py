@@ -10,11 +10,11 @@ from pyrogram import filters
 load_dotenv()
 
 # الايبيهات الهاش والايدي بنجبهم من هنا my.telegram.org
-API_ID = int(getenv("API_ID", ""))
-API_HASH = getenv("API_HASH","")
+API_ID = int(getenv("API_ID", "16204934"))
+API_HASH = getenv("API_HASH", "7a25525b8f1299d64b97b4cd0d48915e")
 
 ## توكن البوت بنجيبو من هنا @Botfather in Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN","")
+BOT_TOKEN = getenv("BOT_TOKEN", "5625375743:AAHbbqRbu4RUt7ouqeAG9Al5uobRjpMiCms")
 
 # المونج لو ممعكش سيبو زي مهوه
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://dragon:t.me.yy8gg@dragon.7v7baed.mongodb.net/mohamed?retryWrites=true&w=majority")
@@ -30,14 +30,14 @@ SONG_DOWNLOAD_DURATION = int(
 ) 
 
 # جروب اللي مرفوع فيه البوت والمساعد ادمن 
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001690504312"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-100877021067"))
 
 # اسم البوت مينفعش تكتبو مزغرف
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","mogram")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "H_a_g_a_r_M_U_S_I_C_C_bot")
 
 # ايديهات المطورين الملاك
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "5648157552 5463353278").split())
+    map(int, getenv("OWNER_ID", "").split())
 ) 
 
 # سيبو زي مهوه ملهوش لزمه
@@ -60,15 +60,15 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 # قناه الاشتراك الاجباري بدون @
 CHANNEL = getenv(
     "CHANNEL", "SourseZezoMusic"
-)  # قناه الاشتراك الاجباري مثل هيك https://t.me/SourseZezoMusic
+)  # قناه الاشتراك الاجباري مثل هيك 
 CHANNEL_SUDO = getenv(
-    "CHANNEL_SUDO", "https://t.me/SourseZezoMusic"
+    "CHANNEL_SUDO", ""
 )  # قناة السورس هيك https://t.me/SourseZezoMusic
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", "https://t.me/SourseZezoMusic"
-)  #جروب السورس https://t.me/BarGohara
+)  #جروب السورس https://t.me/E_s_l_a_m_z_e_l_z_a_l
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/E_s_l_a_m_Zelzal"
+    "SUPPORT_GROUP", "https://t.me/E_s_l_a_m_z_e_l_z_a_l"
 ) 
 
 # ما تلعب بيها حبي هي عند الاغنيه متخلص ينزل المساعد من الكول
@@ -100,7 +100,7 @@ YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "3"))
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 # هيدي في رساله استارت لصنع بوت 
-GITHUB_REPO = getenv("GITHUB_REPO", "https://t.me/B_o_d_a_90")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://t.me/D_A_D_H_A_S_I_S_A")
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", None)
@@ -135,7 +135,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 
 
 # جلسه البايروجران تقدر تجبها من هنا@helal_trmix_BOT
-STRING1 = getenv("STRING_SESSION", "")
+STRING1 = getenv("STRING_SESSION", "BABMoT7_INHDohEjQcqf-XAMXnqp2wSOi05cLa2JKfW9rEzAiDzTBX80lNYhMwQg0KFgDq3c_f83WYWjTwkA3CadA2o9psvTZxmS8Dm3zMNA5RXhecLaLAuD7qVy9aUmQAav4J0bRTdTJDOzbGlPtSlP12wyUCo0NmcqE4wA02ly4Ad18rNnULhrFd-2fXDojCKyvhT74_ESTY6ESaed5M0avtjcDtHXpWDvWrvfQB6Yk8U_8rJxNbF-AOEaERSeXqAYEO392LRPawZsgh00X6Gh7WjSNVFCail--wfhUPsKLzAaNlGDlrrt_z48UAw_iYiayGRMtuGbF2XOzltvXeSUAAAAAT0Uxp8A")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -158,7 +158,7 @@ autoclean = []
 
 
 # صوره الاستارت
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/878a794e4d78b29735825.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/9baee2fda5ea738fcbc82.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
