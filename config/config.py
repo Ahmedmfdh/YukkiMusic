@@ -37,7 +37,7 @@ MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "H_a_g_a_r_M_U_S_I_C_C_bot")
 
 # ايديهات المطورين الملاك
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "").split())
+    map(int, getenv("OWNER_ID", "5189228453").split())
 ) 
 
 # سيبو زي مهوه ملهوش لزمه
