@@ -13,39 +13,39 @@
     ],
     "stack": "container",
     "env": {
-      "API_ID": {
+      "API_ID": {16204934
         "description": "الاب ايدي بتستخرجو من هنا https://my.telegram.org",
         "value": "",
         "required": true
       },
-      "API_HASH": {
+      "API_HASH": {7a25525b8f1299d64b97b4cd0d48915e
         "description": "الاب هاش بنستخرجو من هناhttps://my.telegram.org",
         "value": "",
         "required": true
       },  
-      "BOT_TOKEN": {
+      "BOT_TOKEN": {5400716989:AAGSzFrhbRG8CUV3WbGjbfClSrPu8Rv15ms
         "description": "توكن بوتك بتجيبو من هنا @Botfather",
         "value": "",
         "required": true
       },
-      "OWNER_ID": {
+      "OWNER_ID": {5319739039
         "description": "ايدي المالك او المطور تقدر تحط اتنين بس الاول المتحكم واللي بيظهر",
         "value": "5648157552",
         "required": true
       },
-      "STRING_SESSION": {
+      "STRING_SESSION": {BAAlUzulkcbIMJeSFrEGpAj3wdbG47vOwR1GvxKcPSK-0NpNcdEl5e39UXC9fUMiamAn3LzCiXmEE4m0qhRNzShcK7CVAZdP-J30l1lm2ONgNUx5UrAkuuV8FL8j3R_ZfQGb2xTnrNBsJydCiu2WB9_S5Hwl6IK-yOz2kRuLz6ZxE-lpCKltKVZI_2yp_eebnAETaZmhZJgrsPEo9PY3EPnDqLiNkm8u5WnFzhkJtdq_V1VYI8A45SlAlt1lry0vDgRWGGLTlTQ8Zr6lXWWAaP0fuGzRLoUaEyziaTsEaJBjRNa9brr6fxLoPZyEskh33BGdwvPf4cgHtwV1Thtdi-jeAAAAAT0Uxp8A
         "description": "جلسه البايروجرام",
         "value": "",
         "required": true
       },
       "LOG_GROUP_ID": {
         "description": "ايدي المجموعه اللي هيكون فيها البوت والمساعد ادمن لازم ",
-        "value": "-1001690504312",
+        "value": "-1001457793507",
         "required": true
       },
-      "MUSIC_BOT_NAME": {
+      "MUSIC_BOT_NAME": {Hagar
         "description": " ده اسم البوت سميه زي منتا غايز بس ميكنش مزغرف",
-        "value": "mogram",
+        "value": "",
         "required": true
       },
       "CHANNEL": {
