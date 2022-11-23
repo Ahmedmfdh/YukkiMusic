@@ -21,7 +21,7 @@ API_ID = int(getenv("16204934", ""))
 API_HASH = getenv("7a25525b8f1299d64b97b4cd0d48915e")
 
 ## Get it from @Botfather in Telegram.
-BOT_TOKEN = getenv("5400716989:AAEzHE_yaiRrI5Num3gAifCc4mz5v3agUOc")
+BOT_TOKEN = getenv("5400716989:AAGSzFrhbRG8CUV3WbGjbfClSrPu8Rv15ms")
 
 # Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -44,7 +44,7 @@ MUSIC_BOT_NAME = getenv("H_a_g_a_r_M_U_S_I_C_C_bot")
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("5189228453", "").split())
+    map(int, getenv("5319739039", "").split())
 )  # Input type must be interger
 
 # Get it from http://dashboard.heroku.com/account
@@ -138,7 +138,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 SET_CMDS = getenv("SET_CMDS", False)
 
 # You ll need a Pyrogram String Session for these vars. Generate String from our session generator bot @YukkiStringBot
-STRING1 = getenv("STRING_SESSION", BAB9aLmQSTZm3Re5e-LS7JwW37zbnm5R0WNA51hqymnFSEI3DaTW5Uckv_NmCG21kYNEQsBhGV2qEZrRVPC-6gfn7luAz8_PKQyQ7Lud4D4KHimg5tu2iQxVxkNU9Tn2f0mCd2IW7xUviIkSJ8C7APAqHga5-44jP1vMm5gaYpQMx8w-c0Z_ydGPPmu_eK3U9fPXD-fUBrImOFNcvmZBYxgpy5QNxJT0NtP8Oes0o0XpFPzsXUGBq05STnyl-WOZhTfHC9OLCY8vYzV47nBtG94rsazfVZy6NbWHiziEmYl47gGVKMY3RgVrD__SnikdwgyfWDGcw19frQbxrdqjFpJbAAAAAT0Uxp8A)
+STRING1 = getenv("STRING_SESSION", BAAlUzulkcbIMJeSFrEGpAj3wdbG47vOwR1GvxKcPSK-0NpNcdEl5e39UXC9fUMiamAn3LzCiXmEE4m0qhRNzShcK7CVAZdP-J30l1lm2ONgNUx5UrAkuuV8FL8j3R_ZfQGb2xTnrNBsJydCiu2WB9_S5Hwl6IK-yOz2kRuLz6ZxE-lpCKltKVZI_2yp_eebnAETaZmhZJgrsPEo9PY3EPnDqLiNkm8u5WnFzhkJtdq_V1VYI8A45SlAlt1lry0vDgRWGGLTlTQ8Zr6lXWWAaP0fuGzRLoUaEyziaTsEaJBjRNa9brr6fxLoPZyEskh33BGdwvPf4cgHtwV1Thtdi-jeAAAAAT0Uxp8A)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
