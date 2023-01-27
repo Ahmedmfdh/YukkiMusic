@@ -14,8 +14,8 @@
 </p>
 
 ## 🖇 موقع التواصل تلجرام
-- modY Channel :- [Channel](https://t.me/SourseZezoMusic)
-- DEV :- [Source](https://t.me/B_o_d_a_90)
+- modY Channel :- [Channel](https://t.me/SOURCESAKRAN)
+- DEV :- [Source](https://t.me/D_A_D_S_A_K_R_A_N_N)
 - Support Group :- [Support](https://t.me/E_s_l_a_m_Zelzal)
 
 
